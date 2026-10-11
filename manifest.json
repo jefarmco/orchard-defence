@@ -1,7 +1,7 @@
 {
   "name": "Orchard Defence",
   "short_name": "Orchard TD",
-  "description": "Defend the mango orchard from pests! A tower defence game.",
+  "description": "Defend the Strathdickie mango orchard with Jesse, towers and the ute! A tower defence game.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
